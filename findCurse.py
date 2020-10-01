@@ -11,4 +11,4 @@ def findCurse(curse):
                 print ( i.strip())
         print (f"There are {count} {curse}/s")
 
-findCurse("fuck")
+findCurse(" ass")
